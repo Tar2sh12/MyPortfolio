@@ -1,5 +1,5 @@
 {
-  "homepage":"https://Tar2sh12.github.io/MyPortfolio",
+  "homepage": "https://Tar2sh12.github.io/MyPortfolio",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -11,6 +11,7 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^0.26.1",
     "bootstrap": "^5.1.3",
+    "caniuse-lite": "^1.0.30001651",
     "emailjs": "^4.0.3",
     "react": "^17.0.2",
     "react-bootstrap": "^2.2.1",
