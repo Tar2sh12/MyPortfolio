@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.360c67bb.css",
+    "main.js": "/MyPortfolio/static/js/main.f804dc2f.js",
+    "static/js/415.4d6acbeb.chunk.js": "/MyPortfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/MyPortfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/mo4.PNG": "/MyPortfolio/static/media/mo4.1a4feaa8faef82ffc878.PNG",
+    "static/media/restaurabtRES.jpg": "/MyPortfolio/static/media/restaurabtRES.d15763b24a8905909ba9.jpg",
+    "static/media/home-main.svg": "/MyPortfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/MyPortfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Mohamed-Tarek-Salah_CV.pdf": "/MyPortfolio/static/media/Mohamed-Tarek-Salah_CV.4ce0b4972b6ecf71a511.pdf",
+    "static/media/image-removebg-preview.png": "/MyPortfolio/static/media/image-removebg-preview.38f129145805fb34cc5f.png",
+    "static/media/e-commerce.png": "/MyPortfolio/static/media/e-commerce.21f1d0c88996d0fb04f1.png",
+    "static/media/home-bg.jpg": "/MyPortfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/jobSearchApp.jpeg": "/MyPortfolio/static/media/jobSearchApp.81078caae4046a4addba.jpeg",
+    "static/media/vaxScheduler.jpg": "/MyPortfolio/static/media/vaxScheduler.a4e7b36c65d3743f5c72.jpg",
+    "static/media/library.png": "/MyPortfolio/static/media/library.ca4119e937d8ba49f99e.png",
+    "static/media/pre.svg": "/MyPortfolio/static/media/pre.84272464099b038fe50d.svg",
+    "index.html": "/MyPortfolio/index.html",
+    "main.360c67bb.css.map": "/MyPortfolio/static/css/main.360c67bb.css.map",
+    "main.f804dc2f.js.map": "/MyPortfolio/static/js/main.f804dc2f.js.map",
+    "415.4d6acbeb.chunk.js.map": "/MyPortfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/MyPortfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.360c67bb.css",
+    "static/js/main.f804dc2f.js"
+  ]
+}
