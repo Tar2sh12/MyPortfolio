@@ -15,7 +15,6 @@ function ContactUs() {
   const onSubmit = async (event) => {
     event.preventDefault();
     const formData = new FormData(event.target);
-    const AT = process.env.REACT_APP_ACCESS_TOKEN;
 
     formData.append("access_key", "5726bc65-f7bf-44b0-b834-101d0e76240b");
 
