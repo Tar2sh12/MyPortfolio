@@ -537,7 +537,13 @@ button:focus {
   font-weight: 500 !important;
   padding-top: 10px !important;
 }
-
+.project-subheading {
+  color: white !important;
+  font-size: 1.8em !important;
+  font-weight: 400 !important;
+  padding-top: 20px !important;
+  padding-bottom: 10px !important;
+}
 /* --------- */
 /* About */
 /* --------- */
